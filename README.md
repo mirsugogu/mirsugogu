@@ -45,7 +45,7 @@ Aporto al sector tecnológico una combinación de valor diferenciadora: la lógi
 - **DevOps:** Entorno dockerizado con Dockerfile estructurado y scripts automatizados para la inicialización de esquemas locales e inyecciones de datos de prueba (*seed*)[cite: 3].
 - [🔗 Acceder al Repositorio](https://github.com/mirsugogu/gestion-academica-backend)
 
-### 📁 [Somama Web - Plataforma de Ludotecas](https://github.com/mirsugogu/somama-web)
+### 📁 [Somama Web - Plataforma para Ludoteca SoMama](https://github.com/mirsugogu/somama-web)
 *Desarrollo y reingeniería de la plataforma web corporativa para la ludoteca SoMama, mejorando el sistema informativo previo y desplegando un entorno de gestión interna privado.*
 - **Optimización Frontend:** Rediseño completo de la interfaz pública preexistente, mejorando la arquitectura de la información, la estética visual y la experiencia de usuario (UX).
 - **Backend Empresarial:** Desarrollo en Java y Spring Boot de una intranet segura con dos niveles de acceso diferenciados mediante autenticación de usuario y contraseña:
