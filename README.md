@@ -46,9 +46,12 @@ Aporto al sector tecnológico una combinación de valor diferenciadora: la lógi
 - [🔗 Acceder al Repositorio](https://github.com/mirsugogu/gestion-academica-backend)
 
 ### 📁 [Somama Web - Plataforma de Ludotecas](https://github.com/mirsugogu/somama-web)
-*Sistema web empresarial enfocado en el control de inventario, flujos de usuarios y reservas de plazas por tramos horarios para centros infantiles.*
-- **Core Técnico:** Desarrollado sobre el ecosistema corporativo de Java y Spring Boot[cite: 4].
-- **Datos & Despliegue:** Base de datos relacional MySQL parametrizada para la gestión del centro y orquestación unificada mediante Docker Compose[cite: 4].
+*Desarrollo y reingeniería de la plataforma web corporativa para la ludoteca SoMama, mejorando el sistema informativo previo y desplegando un entorno de gestión interna privado.*
+- **Optimización Frontend:** Rediseño completo de la interfaz pública preexistente, mejorando la arquitectura de la información, la estética visual y la experiencia de usuario (UX).
+- **Backend Empresarial:** Desarrollo en Java y Spring Boot de una intranet segura con dos niveles de acceso diferenciados mediante autenticación de usuario y contraseña:
+  - **Módulo de Familias:** Espacio privado para la gestión y centralización de fichas personales de alumnos, actividades asociadas y control estricto de datos sensibles de salud (alergias y observaciones médicas críticas).
+  - **Panel de Administración (CMS):** Panel autogestionable para la propietaria del centro, permitiendo la edición dinámica de contenidos de la web, actualización del catálogo de talleres en tiempo real y consulta de listados de alumnos.
+- **Datos & Despliegue:** Base de datos relacional MySQL parametrizada para el histórico del centro y orquestación unificada mediante Docker Compose.
 - *🔒 Estado: Repositorio privado en fase de optimización final (Acceso público próximamente).*
 
 ---
